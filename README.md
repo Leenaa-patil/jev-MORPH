@@ -1,6 +1,5 @@
 # jev-MORPH
 
-# jev-MORPH 🧠⚡
 
 > **An agentic Windows desktop assistant that turns natural-language tasks into executable actions.**
 
